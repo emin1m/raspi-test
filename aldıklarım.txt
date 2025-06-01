@@ -1,0 +1,16 @@
+raspberry pi 5 (dirençnet) GELDİ
+minisd kart (dirençnet) GELDİ
+raspberry pi 5 power supply (robocombo) GELDİ
+minisd için usb flash bellek (hepsiburada)	GELDİ
+minihdmi to hdmi (amazon) GELDİ
+Raspberry Pi Kamera Modül 3 - NoIR (robotistan) GELDİ	
+Raspberry Pi Kamera Kablosu Standard - Mini - 200mm (robotistan)	GELDİ
+Rasperry Pi aktif soğutucu - SAMM Market
+
+robotistan => 1728
+direnç => 4527
+amazon => 153.93
+robocombo => 921
+hepsiburaa => 200
+SAMM Market => 332.11
+toplam == 7862 TL
