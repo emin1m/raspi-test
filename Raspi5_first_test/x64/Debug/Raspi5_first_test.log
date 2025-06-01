@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: Ara dizin (x64\Debug\) başka bir projeden (Raspi5_first_test.vcxproj) paylaşılan dosyalar içeriyor. Bu, hatalı temizleme ve yeniden oluşturma davranışına neden olabilir.
+  main.cpp
+  Raspi5_first_test.vcxproj -> C:\Users\USER\Desktop\raspberry pi 5\Raspi5_first_test\x64\Debug\main.exe
